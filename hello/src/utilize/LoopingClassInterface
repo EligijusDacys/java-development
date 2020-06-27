@@ -1,0 +1,8 @@
+package utilize;
+
+public interface LoopingClassInterface {
+
+    // Looping class
+    public void looping(String digit) throws Exception;
+
+}
